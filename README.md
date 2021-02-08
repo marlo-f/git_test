@@ -1,3 +1,1 @@
-This is a test git project.
-Added this line.
-Added another line.
+The purpose of this project is to test out git functionalities.
